@@ -20,13 +20,13 @@ I’m a new learner in web development, eager to dive into the world of coding a
 
 
 ## Most Used Languages
-- **HTML**
-- **JavaScript**
-- **CSS**
+- 👨🏻‍💻**HTML**
+- 👨🏻‍💻 **JavaScript**
+- 👨🏻‍💻 **CSS**
 
 **👨🏻‍🎓   Education**
-- (HSC) Khanchan Nagar Model School & College.
+- 🎓(HSC) Khanchan Nagar Model School & College.
 
-- (SSC) Hiradanga High School.
+- 🎓(SSC) Hiradanga High School.
 
-- (JSC) Hiradanga High School.
+- 🎓(JSC) Hiradanga High School.
